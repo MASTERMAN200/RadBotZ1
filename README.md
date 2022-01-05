@@ -63,10 +63,3 @@ npm update
 ```bash
 node .
 ```
-
----------
-
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Raditya](https://github.com/Drz103.png?size=100)](https://github.com/Drz103)
-----|----
-[Nurutomo](https://github.com/Nurutomo) | [Raditya](https://github.com/ariffb25)
- Penulis / Pencipta | Penulis ulang
